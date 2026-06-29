@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "292776541175",
+    "project_id": "aina-task-manager",
+    "storage_bucket": "aina-task-manager.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:292776541175:android:dcc5ef13cb30a3ed7f8cf2",
+        "android_client_info": {
+          "package_name": "com.example.my_task_manager"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcMV5WY3xn7i8GASqwQQEB7eYuI2AtwR8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
